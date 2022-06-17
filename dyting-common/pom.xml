@@ -52,7 +52,7 @@
 		<dependency>  
 		    <groupId>com.alibaba</groupId>  
 		    <artifactId>fastjson</artifactId>  
-		    <version>1.2.41</version>  
+		    <version>1.2.83</version>  
         </dependency>
         
         <!-- fileUtils工具包实现需要的一些Maven依赖 -->
